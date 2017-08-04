@@ -6,7 +6,7 @@ var links = [
 "http://res1.360myb.com/editor/image/20130522/20130522085813_73217.jpg"
 ]
 var titles = ["basketball最愛運動","drum打鼓超帥的","hunter X hunter最好看的動漫","video game平時休閒娛樂","發呆....最好消磨時間"]
-var autoplay = false
+var autoplay = true
 var index = 0;
 function prevPic() {
   var img = document.getElementById("pic");
