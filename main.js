@@ -31,6 +31,3 @@ function nextPic() {
 setTimeout(nextPic, 3000)
   }
 }
-if(autoplay) {
-    setTimeout(nextPic, 3000);
-}
